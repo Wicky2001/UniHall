@@ -39,5 +39,5 @@ UniHall offers a fully digital solution:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/unihall.git
+   git clone https://github.com/Wicky2001/UniHall.git
    ```
